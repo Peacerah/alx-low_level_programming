@@ -1,8 +1,10 @@
 #include <stdio.h>
+
+
 /**
- * A programm that prints to the standard output
- * main: The main function where coding is initiated
- * return: always return 0
+ * main: - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

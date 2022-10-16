@@ -1,7 +1,10 @@
 #include <stdio.h>
+
+
 /**
- * main: is a function that contains all c codes
- * Return: This always return 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

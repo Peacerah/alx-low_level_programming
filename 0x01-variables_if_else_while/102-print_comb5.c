@@ -24,6 +24,7 @@ int main(void)
 	int b;
 	int com = 44;
 	
+
 	while (a <= 99)
 	{
 		b = a + 1;

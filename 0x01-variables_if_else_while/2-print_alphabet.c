@@ -1,15 +1,11 @@
 #include <stdio.h>
 #include <ctype.h>
 
-
-
 /**
+ * main - main entry
  *
- *main - program that prints the alphabet in lowercase, followed by a new line
- *You can only use the putchar
- *
- *Return: 0
- *
+ * This program will assign a random number to the variable n each time
+ * Return: return 0 (Sucess)
  */
 
 
@@ -17,6 +13,7 @@
 int main(void)
 {
 	int l = 'a';
+
 	while (l <= 'z')
 	{
 		putchar(l);

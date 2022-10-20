@@ -1,5 +1,4 @@
-#include "main.h"
-#include <stdio.h>
+#include <myfunc.h>
 
 /**
  * main - main entry

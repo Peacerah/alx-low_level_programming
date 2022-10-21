@@ -1,21 +1,22 @@
-#include <myfunc.h>
+#include "main.h"
 
 /**
  * main - main entry
- *
- * Programm to return capital and small letter
  *
  * Return: Return 1 or 0
  */
 
 
 
-int _isupper(int c)
+int main(void)
 {
-	if (c >= 'A' && c <= 'Z')
-	{
-		return (1);
-	}
-	else
-		return (0);
+	_putchar("_");
+	_putchar("p");
+	_putchar("u");
+	_putchar("t");
+	_putchar("c");
+	_putchar("h");
+	-putchar("a");
+	_putchar("r");
+	_putchar("\n");
 }

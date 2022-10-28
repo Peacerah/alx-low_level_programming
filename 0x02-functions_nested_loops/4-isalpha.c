@@ -2,7 +2,6 @@
 
 /**
  * _isalpha - function that checks letter 
- *
  * @c: input argumen to check
  *
  * Return: Always int.

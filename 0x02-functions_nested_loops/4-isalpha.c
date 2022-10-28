@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - functuin that checks if it is a letter 
+ * _isalpha - function that checks letter 
  *
  * @c: input argumen to check
  *

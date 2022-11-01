@@ -2,7 +2,7 @@
 
 /**
  * _memset - function that fills memory with a constant byte.
- * @s: mamory area to return
+ * @s: memory area to return
  * @b: constant byte
  * @n: size of bytes
  * Return: char

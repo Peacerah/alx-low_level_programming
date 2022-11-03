@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * _pow_recursion - function to return the power 
- * @x: base input 
- * @y: exponent input
- * Return: return integer for sucess or -1 for failure
+ * _pow_recursion - function that returns the value of x
+ * raised to the power of y
+ * @x: base number
+ * @y: pow number
+ * Return: int
  */
 
 int _pow_recursion(int x, int y)

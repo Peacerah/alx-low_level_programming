@@ -40,6 +40,7 @@ int check_digit(char *a)
 int main(int argc, char *argv[])
 {
 	int i, num, res;
+
 	res = 0;
 	for (i = 1; i < argc; i++)
 	{

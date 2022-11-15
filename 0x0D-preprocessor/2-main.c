@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main: programm entry
- * Return - always 0
+ * main - programm entry
+ * Return: int 0
  */
 
 int main ()

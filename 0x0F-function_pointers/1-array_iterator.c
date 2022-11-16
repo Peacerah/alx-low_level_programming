@@ -3,9 +3,9 @@
 
 /**
  * array_iterator - function to act on array
- * @*array: pointer to array parameter
+ * @array: pointer to array parameter
  * @size: size of the array
- * @*action: pointer to a function
+ * @action: pointer to a function
  * Return: Nothing
  */
 

@@ -1,7 +1,7 @@
+#include "3-calc.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "3-calc.h"
 
 /**
  * main - Entry point
@@ -23,7 +23,8 @@ int main(int argc, char *argv[])
 		exit(98);
 	}
 	operator = argv[2][0];
-	if ((operator != '*' && operator != '+' && operator != '-' && operator != '/'  && operator != '%') || argv[2][1] != '\0')
+	if ((operator != '*' && operator != '+' && operator != '-'
+		&& operator != '/'  && operator != '%') || argv[2][1] != '\0')
 	{
 		printf("Error\n");
 		exit(99);
